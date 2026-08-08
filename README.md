@@ -22,6 +22,9 @@ Source: https://datahub.io/core/population
 Columns: Country Name, Country Code, Year, Value
 Unit of Value: Thousand people
 
+**Environment Installation**
+pip install -r requirements.txt
+
 **Core Workflow**
 Import libraries & suppress geospatial coordinate warnings
 Load country boundary GeoJSON and population CSV
