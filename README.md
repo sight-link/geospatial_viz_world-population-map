@@ -51,7 +51,7 @@ Large territory countries (Canada, Australia, Russia) have sparse population mar
 ![Static Preview of Global Population Map](./output_sample/World_Country_Map.png)
 # World_Population_Heatmap
 ![Static Population Change Animation](./output_sample/World_Population_Heatmap.png)
-# World_Population_Heatmap
+# World_Population_Choropleth
 ![Static Population Change Animation](./output_sample/World_Population_Choropleth.png)
 
 
