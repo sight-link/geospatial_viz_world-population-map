@@ -48,7 +48,7 @@ China and India hold the highest population tiers with deepest fill color on cho
 Large territory countries (Canada, Australia, Russia) have sparse population markers and weak heat signals despite vast land area.
 
 # Global Population Timeseries Map Demo
-![Static Preview of Global Population Map](./assets/map_static.png)
+![Static Preview of Global Population Map](././output_sample/World_Country_Map.png)
 **World_Country_Map**
 ![Static Preview of Global Population Map](./output_sample/World_Country_Map.png)
 **World_Population_Heatmap**
