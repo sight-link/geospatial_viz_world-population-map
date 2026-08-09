@@ -47,11 +47,11 @@ Population hotspots concentrate in East Asia, South Asia and Western Europe; Sah
 China and India hold the highest population tiers with deepest fill color on choropleth map.
 Large territory countries (Canada, Australia, Russia) have sparse population markers and weak heat signals despite vast land area.
 
-# World_Country_Map
+**World_Country_Map**
 ![Static Preview of Global Population Map](./output_sample/World_Country_Map.png)
-# World_Population_Heatmap
+**World_Population_Heatmap**
 ![Static Population Change Animation](./output_sample/World_Population_Heatmap.png)
-# World_Population_Choropleth
+**World_Population_Choropleth**
 ![Static Population Change Animation](./output_sample/World_Population_Choropleth.png)
 
 
